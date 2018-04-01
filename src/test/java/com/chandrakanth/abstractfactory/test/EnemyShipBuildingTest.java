@@ -1,6 +1,9 @@
-package com.chandrakanth.abstractfactory;
+package com.chandrakanth.abstractfactory.test;
 
 import java.util.Scanner;
+
+import com.chandrakanth.abstractfactory.EnemyShipBuilding;
+import com.chandrakanth.abstractfactory.UFOEnemyShipBuilding;
 
 public class EnemyShipBuildingTest {
 
